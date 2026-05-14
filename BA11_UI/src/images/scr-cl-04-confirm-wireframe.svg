@@ -1,0 +1,17 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" fill="#F5F3EE"/>
+  <rect x="70" y="50" width="760" height="430" rx="18" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/>
+  <text x="100" y="96" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Подтверждение записи</text>
+  <line x1="70" y1="122" x2="830" y2="122" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="160" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ГЛАВНАЯ ОПЕРАЦИЯ: [Подтвердить запись]</text>
+  <rect x="100" y="184" width="620" height="72" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="126" y="226" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="19">Сводка: дата, время, услуга, мастер, салон</text>
+  <line x1="70" y1="292" x2="830" y2="292" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="330" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ДРУГИЕ:</text>
+  <rect x="200" y="308" width="160" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="228" y="332" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Изменить выбор</text>
+  <rect x="378" y="308" width="92" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="406" y="332" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Отмена</text>
+  <text x="100" y="390" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">ФРЕЙМ ДАННЫХ: карточка итоговой записи</text>
+  <rect x="100" y="412" width="620" height="42" rx="8" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+</svg>

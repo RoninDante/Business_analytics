@@ -1,0 +1,21 @@
+<svg width="920" height="560" viewBox="0 0 920 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="560" fill="#F5F3EE"/>
+  <rect x="70" y="50" width="780" height="420" rx="18" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/>
+  <text x="100" y="96" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Запись #1234 | 01.04.2026 14:00</text>
+  <line x1="70" y1="122" x2="850" y2="122" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="160" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ГЛАВНАЯ: [Выполнено] [Принять оплату]</text>
+  <text x="100" y="208" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="19">Сумма</text>
+  <rect x="168" y="180" width="100" height="42" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="202" y="207" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18">____</text>
+  <text x="310" y="208" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="19">Способ</text>
+  <rect x="396" y="180" width="166" height="42" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="424" y="207" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18">Нал / Карта ▼</text>
+  <line x1="70" y1="270" x2="850" y2="270" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="308" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ДРУГИЕ:</text>
+  <rect x="200" y="286" width="210" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="226" y="310" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Связаться с клиентом</text>
+  <rect x="428" y="286" width="100" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="456" y="310" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Печать</text>
+  <text x="100" y="382" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">ДАННЫЕ: карточка записи + клиент</text>
+  <rect x="100" y="404" width="620" height="42" rx="8" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+</svg>

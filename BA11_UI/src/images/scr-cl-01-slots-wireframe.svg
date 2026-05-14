@@ -1,0 +1,21 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" fill="#F5F3EE"/>
+  <rect x="70" y="50" width="760" height="420" rx="18" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/>
+  <text x="100" y="96" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">[Лого] Запись онлайн</text>
+  <rect x="690" y="70" width="100" height="34" rx="8" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="718" y="93" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Войти</text>
+  <line x1="70" y1="122" x2="830" y2="122" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="160" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ГЛАВНАЯ ОПЕРАЦИЯ: выбор времени</text>
+  <text x="100" y="206" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">Календарь:</text>
+  <rect x="220" y="178" width="180" height="42" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="247" y="205" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18">&lt; Апрель 2026 &gt;</text>
+  <text x="100" y="262" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">Список слотов:</text>
+  <rect x="100" y="286" width="620" height="54" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="130" y="320" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="19">10:00   11:00   12:00   13:00   ...</text>
+  <line x1="70" y1="374" x2="830" y2="374" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="412" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ДРУГИЕ ОПЕРАЦИИ:</text>
+  <rect x="290" y="390" width="120" height="38" rx="9" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="316" y="414" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="17">Филиал ▼</text>
+  <rect x="430" y="390" width="100" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="457" y="414" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Помощь</text>
+</svg>

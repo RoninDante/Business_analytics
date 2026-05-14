@@ -1,0 +1,51 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="620" fill="#F5F3EE"/>
+
+  <rect x="80" y="70" width="1040" height="420" rx="18" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/>
+
+  <text x="118" y="128" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
+    Роли сотрудников
+  </text>
+
+  <rect x="876" y="92" width="194" height="42" rx="10" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="903" y="119" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    + Добавить роль
+  </text>
+
+  <line x1="80" y1="156" x2="1120" y2="156" stroke="#1F1F1F" stroke-width="3"/>
+
+  <rect x="118" y="184" width="120" height="54" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="152" y="218" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="20">
+    Поиск
+  </text>
+
+  <text x="272" y="218" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    Сортировка: по коду ▲
+  </text>
+
+  <line x1="80" y1="272" x2="1120" y2="272" stroke="#1F1F1F" stroke-width="3"/>
+
+  <text x="118" y="330" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    Список: Код | Наименование | Описание
+  </text>
+
+  <rect x="118" y="386" width="118" height="42" rx="10" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="146" y="413" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    Открыть
+  </text>
+
+  <rect x="254" y="386" width="168" height="42" rx="10" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="282" y="413" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    Редактировать
+  </text>
+
+  <rect x="440" y="386" width="132" height="42" rx="10" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="471" y="413" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    Удалить
+  </text>
+
+  <rect x="590" y="386" width="110" height="42" rx="10" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="622" y="413" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    Назад
+  </text>
+</svg>

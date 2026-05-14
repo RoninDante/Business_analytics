@@ -1,0 +1,17 @@
+<svg width="900" height="500" viewBox="0 0 900 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="500" fill="#F5F3EE"/>
+  <rect x="70" y="50" width="760" height="320" rx="18" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="4"/>
+  <text x="100" y="96" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Новый клиент</text>
+  <line x1="70" y1="122" x2="830" y2="122" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="160" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ГЛАВНАЯ: [Зарегистрировать]</text>
+  <text x="100" y="208" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">Телефон</text>
+  <rect x="220" y="180" width="110" height="42" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="260" y="207" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18">___</text>
+  <text x="380" y="208" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="20">Имя</text>
+  <rect x="440" y="180" width="110" height="42" rx="10" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="480" y="207" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18">___</text>
+  <line x1="70" y1="268" x2="830" y2="268" stroke="#1F1F1F" stroke-width="3"/>
+  <text x="100" y="306" fill="#575757" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ДРУГИЕ:</text>
+  <rect x="200" y="284" width="236" height="38" rx="9" fill="#E9E4D8" stroke="#1F1F1F" stroke-width="2"/>
+  <text x="228" y="308" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Проверить клиента в базе</text>
+</svg>
